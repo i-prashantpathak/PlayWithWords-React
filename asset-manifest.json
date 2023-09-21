@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PlayWithWords-React/static/css/main.01b140bc.css",
+    "main.js": "/PlayWithWords-React/static/js/main.e5d9af92.js",
+    "static/js/787.44b1af04.chunk.js": "/PlayWithWords-React/static/js/787.44b1af04.chunk.js",
+    "index.html": "/PlayWithWords-React/index.html",
+    "main.01b140bc.css.map": "/PlayWithWords-React/static/css/main.01b140bc.css.map",
+    "main.e5d9af92.js.map": "/PlayWithWords-React/static/js/main.e5d9af92.js.map",
+    "787.44b1af04.chunk.js.map": "/PlayWithWords-React/static/js/787.44b1af04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01b140bc.css",
+    "static/js/main.e5d9af92.js"
+  ]
+}
